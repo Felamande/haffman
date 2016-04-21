@@ -1,0 +1,15 @@
+{
+    "name": "cszchen/haffman",
+    "authors": [
+        {
+            "name": "cszchen",
+            "email": "csz@soyhw.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "cszchen\\haffman\\": "src"
+        }
+    }
+}

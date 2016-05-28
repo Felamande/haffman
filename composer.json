@@ -1,5 +1,5 @@
 {
-    "name": "cszchen/haffman",
+    "name": "cszchen/huffman",
     "authors": [
         {
             "name": "cszchen",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "cszchen\\haffman\\": "src"
+            "cszchen\\huffman\\": "src"
         }
     }
 }

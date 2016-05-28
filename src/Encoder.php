@@ -1,6 +1,6 @@
 <?php
 
-namespace cszchen\haffman;
+namespace cszchen\huffman;
 
 class Encoder
 {

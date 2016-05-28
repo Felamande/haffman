@@ -1,2 +1,2 @@
-# haffman
-It is a library for Haffman encode and decode
+# huffman
+It is a library for huffman encode and decode
